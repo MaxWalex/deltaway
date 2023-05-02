@@ -1,0 +1,9 @@
+{
+  "assetsByChunkName": {
+    "admin": [
+      "admin.chunk.css",
+      "admin.chunk.js"
+    ],
+    "vendors-admin": "vendors-admin.chunk.js"
+  }
+}
